@@ -1,5 +1,5 @@
 # odin-recipes
-## The Odin Project: first project
+## The Odin Project: Recipes
 
 This is a project where I am to build a basic recipe website with:
 
